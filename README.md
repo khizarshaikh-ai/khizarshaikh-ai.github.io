@@ -31,7 +31,7 @@ Animated skill bars and floating tech icons make the site interactive.
 
 ## 🔗 Connect with Me
 - **LinkedIn**: [Khizar Ahmed Shaikh](https://www.linkedin.com/in/khizar-ahmed-shaikh)  
-- **Email**: khizar.67570@iqra.edu.pk  
+- **Email**: khizarshaikh909@gmail.com  
 
 Contact form sends messages directly to my Gmail via Formspree.
 
